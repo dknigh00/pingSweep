@@ -1,6 +1,4 @@
 # pingSweep.py
-## Author: Brian Snyder
-### Created: 05/22/2015  
 ---
 Basic pingsweep application written in Python 3.  
 Pings all IP addresses for a given network and returns  
